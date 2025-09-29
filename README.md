@@ -11,4 +11,4 @@ The dashboard was built using the following tools and technologies:
 🗂 Data Modeling – Build relationships and structure data for analysis
 📁 File Formats (Excel, CSV, etc.) – Source and manage raw sales data
 
-Demos:
+Demos: https://github.com/Bhavesh1520/Blinkit-Sales-Analysis--Dashboard/blob/main/Blinkit_Sales_Insights.png

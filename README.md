@@ -1,4 +1,4 @@
-# Blinkit-Sales-Analysis--Dashboard
+# Blinkit-Sales-Analysis-Dashboard
 1.Project Title
 
 Blinkit Sales Analysis Dashboard:
